@@ -1,0 +1,15 @@
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\EleccionesApp.csproj.AssemblyReference.cache
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\EleccionesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\EleccionesApp.AssemblyInfoInputs.cache
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\EleccionesApp.AssemblyInfo.cs
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\EleccionesApp.csproj.CoreCompileInputs.cache
+C:\Users\BLANCA\Downloads\EleccionesApp\bin\Debug\net7.0\EleccionesApp.exe
+C:\Users\BLANCA\Downloads\EleccionesApp\bin\Debug\net7.0\EleccionesApp.deps.json
+C:\Users\BLANCA\Downloads\EleccionesApp\bin\Debug\net7.0\EleccionesApp.runtimeconfig.json
+C:\Users\BLANCA\Downloads\EleccionesApp\bin\Debug\net7.0\EleccionesApp.dll
+C:\Users\BLANCA\Downloads\EleccionesApp\bin\Debug\net7.0\EleccionesApp.pdb
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\EleccionesApp.dll
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\refint\EleccionesApp.dll
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\EleccionesApp.pdb
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\EleccionesApp.genruntimeconfig.cache
+C:\Users\BLANCA\Downloads\EleccionesApp\obj\Debug\net7.0\ref\EleccionesApp.dll
